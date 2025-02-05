@@ -45,7 +45,7 @@ text-editor/
 ```
 
 
-## Nest steps
+## Next steps
 In the upcoming reviews, I will add javascript functionalities for all the buttons in this project.
 
 ## Contributing
